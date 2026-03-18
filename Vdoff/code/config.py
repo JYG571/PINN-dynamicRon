@@ -3,7 +3,7 @@
 import numpy as np
 
 # training parameters
-EPOCHS = 200
+EPOCHS = 500
 BATCH_SIZE = 16
 LEARNING_RATE = 1e-3
 
